@@ -22,7 +22,7 @@ function Header() {
             ${path=='/dashboard'&&'text-primary font-bold'}
             `}
             
-            >Dashboard</li>
+            >Workspace</li>
             </Link>
             
             <li className={`hover:text-primary hover:font-bold transition-all
